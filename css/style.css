@@ -58,7 +58,7 @@ h1{
 
 /* submit button */
 #submitColor {
-font-size: 18px;
+font-size: 16px;
 cursor: pointer;
 display:flex;
 justify-content: center;
@@ -70,12 +70,12 @@ margin-top: 30px;
   color: aqua;
   border: 2px solid aqua;
   font-weight: 600;
-  padding-top: 4px;
+  padding-top: 5px;
   
   position: relative;
   text-align: center;
   
-  width: 30%;
+  width: 35%;
   height: 35px;
   position: relative;
   cursor: pointer;
